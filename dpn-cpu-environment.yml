@@ -24,4 +24,4 @@ dependencies:
 - opencv
 - seaborn
 - ipywidgets
-- wget
+- python-wget
